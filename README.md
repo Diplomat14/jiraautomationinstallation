@@ -1,6 +1,4 @@
-*****
 # JIRA Automation Installation & Usage
-*****
 
 ### About this repository
 This repository contains installation and example scripts for jira automation usage.
@@ -28,7 +26,6 @@ Intsallation scripts are assumed to be run either from cloned folder as is or fr
 
 
 ## Usage
-*****
 
 ### Usage summary
 jiraautomation package is installed as "jiraautomation-main". Customization example shows how to install "custjiraautomation-main" command to extend standard commands with customized ones.
