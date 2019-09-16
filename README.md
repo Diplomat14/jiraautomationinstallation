@@ -6,7 +6,6 @@ It is required as a separate repository while installation from non public repos
 
 
 ## Installation
-*****
 
 ### Preconditions
 * Install git
