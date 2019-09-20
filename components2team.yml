@@ -1,3 +1,6 @@
-componentA: Team A
-componentB: Team A
-componentC: Team B
+Team A:
+  - Component A
+  - Component B
+
+Team B:
+  - Component C
