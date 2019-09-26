@@ -10,6 +10,6 @@ else
 	QUERY=$1
 fi
 
-jacustomization-main -s "https://DOMAIN.atlassian.net" -u "user@server.com" -at "ACCESSTOKEN_GOTOYOUR_JIRA_PROFILE" -log "output/setduebysprint/log.txt" -o SetDueBySprint -q "$QUERY" -sdbsS "YOUR SPRINT 1=2019-1-1,YOUR SPRINT 2=2019-1-14"
+jacustomization-main @jira_server.cfg -log "output/setduebysprint/log.txt" -o SetDueBySprint -q "$QUERY" -sdbsS "YOUR SPRINT 1=2019-1-1,YOUR SPRINT 2=2019-1-14"
 
 echo "Due setting bat finished"
