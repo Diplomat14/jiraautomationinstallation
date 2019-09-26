@@ -3,6 +3,9 @@ dependencies/*
 output/*
 working/*
 
+# 
+jira_server.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
