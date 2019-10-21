@@ -9,3 +9,7 @@ cd ../../
 cd dependencies/jiraautomation/
 git pull origin
 cd ../../
+
+cd working/jiraautomationcustomization/
+git pull origin
+cd ../../
