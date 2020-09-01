@@ -16,7 +16,7 @@ setup(
     license='MIT', #TBD
     packages=[],
     install_requires=[
-        'jacustomization @ git+ssh://git@github.com/Diplomat14/jiraautomationcustomization.git'
+        'jacustomization @ git+http://git@github.com/Diplomat14/jiraautomationcustomization.git'
     ],
     include_package_data=True,
     test_suite='nose.collector',
